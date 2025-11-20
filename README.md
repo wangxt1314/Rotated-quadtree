@@ -2,7 +2,7 @@
 
 This repository contains the R implementation of the **rotated quadtree spatial partitioning framework** developed for the study:
 
-**“Spatially adaptive estimation of multi-layer soil temperature across China using a rotated-quadtree ensemble modeling approach (2010–2020)”**
+**“Spatially adaptive estimation of multi-layer soil temperature at a daily time-step across China during 2010-2020”**
 
 The code constructs **six rotated quadtree structures** at different orientation angles and exports the resulting polygons as shapefiles. These partitions are used to train localized machine-learning models for high-resolution soil temperature (Ts) prediction.
 
